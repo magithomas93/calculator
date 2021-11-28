@@ -40,16 +40,9 @@ body{
     word-wrap: break-word;
     word-break: break-all;
 }
-.output .first_operand{
-    color: white;
-    font-size: 1rem;
-
-}
-.output .second_operand{
-    color: white;
-    font-size: 2rem;
-}
 #text1{
     width:375px;
     height: 40px;
+    background-color: white;
+    color: black;
 }
